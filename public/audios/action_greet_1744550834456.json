@@ -1,0 +1,8 @@
+{
+  "action": "greet",
+  "text": "Hey there! Great to see you. How can I assist you with Solana today?",
+  "timestamp": 1744550834456,
+  "duration": 4.58,
+  "facialExpression": "smile",
+  "animation": "Talking_0"
+}
